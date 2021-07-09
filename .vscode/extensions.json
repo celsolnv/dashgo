@@ -1,0 +1,7 @@
+{
+    "recommendations": [
+        "dbaeumer.vscode-eslint",
+        "dracula-theme.theme-dracula",
+        "ionutvmi.path-autocomplete"
+    ]
+}
