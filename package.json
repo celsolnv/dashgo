@@ -13,7 +13,9 @@
     "@emotion/react": "^11.4.0",
     "@emotion/styled": "^11.3.0",
     "@hookform/resolvers": "^2.8.5",
+    "@types/faker": "^5.5.9",
     "apexcharts": "^3.27.1",
+    "axios": "^0.24.0",
     "framer-motion": "^4.1.17",
     "next": "10.2.3",
     "react": "17.0.2",
@@ -21,11 +23,13 @@
     "react-dom": "17.0.2",
     "react-hook-form": "^7.22.1",
     "react-icons": "^4.2.0",
+    "react-query": "^3.34.5",
     "yup": "^0.32.11"
   },
   "devDependencies": {
     "@types/node": "^15.12.0",
     "@types/react": "^17.0.9",
+    "faker": "^5.5.3",
     "miragejs": "^0.1.43",
     "typescript": "^4.3.2"
   }
